@@ -1,4 +1,4 @@
-# TreeStringRepresentation
+# Binary Tree Representation as string
 You enter the tree as preorder, and as output it will show you the same tree as postorder and inorder.
 There are 3 ways to represent a binary tree.
 PreOrder: It shows the root then the left child then the right child.
